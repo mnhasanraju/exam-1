@@ -102,14 +102,16 @@ fa.fa-check {
 }
 
 .form-control {
-	width: 60%;
-	padding: 5px 50px;
+	width: 85%;
+	margin: 5px auto;
+	padding: 5px 0;
 	background: #fff;
 }
 
 .login-btn {
-	margin: 5px 0;
-	padding: 5px 90px;
+	width: 85%;
+	margin: 5px auto;
+	padding: 5px 0;
 	background-color: #1A5276;
 	text-transform: uppercase;
 	color: #fff;
